@@ -1,1 +1,7 @@
 /target
+
+# JetBrains IDE folder
+/.idea
+
+#Cargo.lock file
+/Cargo.lock
